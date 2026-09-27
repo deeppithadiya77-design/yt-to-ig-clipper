@@ -1,0 +1,13 @@
+venv/
+downloads/
+transcripts/
+highlights/
+output/
+final_output/
+vertical_output/
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
